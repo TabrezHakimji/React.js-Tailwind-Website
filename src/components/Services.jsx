@@ -40,13 +40,13 @@ const Services = () => {
             {/* company logo */}
 
             <div className='my-12 flex flex-wrap justify-between items-center gap-8 '>
-                <img src={icons1} alt="" srcset="" />
-                <img src={icons2} alt="" srcset="" />
-                <img src={icons3} alt="" srcset="" />
-                <img src={icons4} alt="" srcset="" />
-                <img src={icons5} alt="" srcset="" />
-                <img src={icons6} alt="" srcset="" />
-                <img src={icons7} alt="" srcset="" />
+                <img src={icons1}  />
+                <img src={icons2} />
+                <img src={icons3}  />
+                <img src={icons4} />
+                <img src={icons5} />
+                <img src={icons6}  />
+                <img src={icons7}  />
             </div>
         </div>
 
