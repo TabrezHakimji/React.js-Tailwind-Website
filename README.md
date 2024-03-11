@@ -18,4 +18,5 @@ Currently, two official plugins are available:
 "# React.js-Tailwind-Website"
 
 
-![screenshot](https://github.com/TabrezHakimji/React.js-Tailwind-Website/assets/162948892/7b35c8f5-fdce-46cc-96d6-56cc706f27ce)
+![screenshot (1)](https://github.com/TabrezHakimji/React.js-Tailwind-Website/assets/162948892/84b1456e-d3e3-4f82-b939-751edfd4fdb7)
+
