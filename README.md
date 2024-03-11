@@ -1,4 +1,14 @@
+Website Preview
+![screenshot](https://github.com/TabrezHakimji/React.js-Tailwind-Website/assets/162948892/7b35c8f5-fdce-46cc-96d6-56cc706f27ce)
+
 # React + Vite
+
+CMD To RUN
+
+After Copy all the file than open in VS Code and run below cmd in Terminal
+npm run dev
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
