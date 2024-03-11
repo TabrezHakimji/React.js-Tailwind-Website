@@ -5,6 +5,7 @@ import icons12 from '../assets/icons/Icon12.png';
 import icons13 from '../assets/icons/Icon13.png';
 import icons14 from '../assets/icons/Icon14.png';
 
+
 const About = () => {
   return ( 
     <div>
