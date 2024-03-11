@@ -76,7 +76,6 @@ const Products = () => {
                                         </svg>
                                     </a>
                                 </div>
-                                strokeWidth
                             </div>
                         </div>
                     </div>
