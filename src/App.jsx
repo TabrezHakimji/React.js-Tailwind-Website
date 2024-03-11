@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import Products from './components/Products';
 import Services from './components/Services';
+import Myfooter from './components/Myfooter';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Products/>
       <Blog/>
       <News/>
+      <Myfooter/>
     </>
 
   )
